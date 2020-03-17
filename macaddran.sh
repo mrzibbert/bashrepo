@@ -1,3 +1,10 @@
+###########################################################
+#Hi, this my first script in github 
+#This script does not claim to be the best.
+#If you have ideas for improvement, help improve the code. 
+#Thanks for attention. 
+###########################################################
+
 #!/bin/bash
 
 if ip link show enp3s0 | grep -q "state UP"; 
